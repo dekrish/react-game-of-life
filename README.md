@@ -1,3 +1,6 @@
+This is the Conways's game of life (https://en.wikipedia.org/wiki/Conway's_Game_of_Life) created using React in ES5 JavaScript.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 To run the react application:
